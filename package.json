@@ -1,0 +1,30 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "bundle": "electron-packager ./ QRCreator"
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^15.0.0"
+  },
+  "dependencies": {
+    "csv-parse": "^4.16.3",
+    "electron-packager": "^15.4.0",
+    "merge-images": "^2.0.0",
+    "promise-file-reader": "^1.0.3",
+    "qrcode": "^1.4.4"
+  }
+}
