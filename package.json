@@ -25,6 +25,6 @@
     "electron-packager": "^15.4.0",
     "merge-images": "^2.0.0",
     "promise-file-reader": "^1.0.3",
-    "qrcode": "^1.4.4"
+    "qrcode": "^1.5.1"
   }
 }
