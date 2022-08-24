@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "csv-parse": "^4.16.3",
-    "electron-packager": "^15.4.0",
+    "electron-packager": "^16.0.0",
     "merge-images": "^2.0.0",
     "promise-file-reader": "^1.0.3",
     "qrcode": "^1.4.4"
