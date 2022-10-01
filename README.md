@@ -4,13 +4,13 @@ Small MVP app to help my significant other with unique ticket creation for an ac
 <table>
 <tr>
    <td>
-      <img src="https://raw.githubusercontent.com/jessypouliot98/QRTicketCreator/main/.github/__assets__/QRTicketCreator_App.png" alt="app view" />
+      <img src="https://raw.githubusercontent.com/jessypouliot98/QRTicketCreator/main/.github/__assets__/QRTicketCreator_App.jpg" alt="app view" />
    </td>
    <td>
-      <img src="https://raw.githubusercontent.com/jessypouliot98/QRTicketCreator/main/.github/__assets__/QRTicketCreator_CSV.png" alt="CSV view" />
+      <img src="https://raw.githubusercontent.com/jessypouliot98/QRTicketCreator/main/.github/__assets__/QRTicketCreator_CSV.jpg" alt="CSV view" />
    </td>
    <td>
-      <img src="https://raw.githubusercontent.com/jessypouliot98/QRTicketCreator/main/.github/__assets__/QRTicketCreator_Generated.png" alt="generated files view" />
+      <img src="https://raw.githubusercontent.com/jessypouliot98/QRTicketCreator/main/.github/__assets__/QRTicketCreator_Generated.jpg" alt="generated files view" />
    </td>
 </tr>
 </table>
